@@ -11,7 +11,7 @@ import Login from './pages/Login'
 import Home from './pages/Home'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-import SearchBar from './components/SeachBar'
+import SearchBar from './components/SearchBar'
 import ThankYouPage from './pages/ThankYou'
 import { Toaster } from "react-hot-toast";
 
